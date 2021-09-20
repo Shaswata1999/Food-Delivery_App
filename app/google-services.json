@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495450112225",
+    "firebase_url": "https://food-on-3421d-default-rtdb.firebaseio.com",
+    "project_id": "food-on-3421d",
+    "storage_bucket": "food-on-3421d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495450112225:android:52e215620850e804c677a0",
+        "android_client_info": {
+          "package_name": "com.food_on.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495450112225-4ksgj2uvqocl81vlfvt19lbgirgq37df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA65h54I0d7i6Or2TwwUyA5YwtqFHtIaVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495450112225-4ksgj2uvqocl81vlfvt19lbgirgq37df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
